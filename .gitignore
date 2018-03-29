@@ -1,5 +1,5 @@
 # Ignore PyCharm .idea
-.idea/
+/.idea/
 
 # Compiled python modules.
 *.pyc
